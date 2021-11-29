@@ -28,4 +28,3 @@ const app = (args) => {
   }  
 };
 
-app(process.argv);
