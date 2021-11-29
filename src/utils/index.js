@@ -10,5 +10,3 @@ add() {
     movieArr.push(this);
 }
 }
-
-module.exports = {Movie, movieArr}
